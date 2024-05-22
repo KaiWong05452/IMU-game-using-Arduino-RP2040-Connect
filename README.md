@@ -5,7 +5,7 @@ This is a project exploring the usage of Arduino board RP2040 Connect in enterta
 Here's a capture:
 ![image](https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/blob/master/Demo.png)
 
-##Project objectives
+## Project objectives
 1. IMU acceleration and gyroscope data mapped to Euler angles.
 2. Transfer data from Arduino BLE Peripheral to Laptop as BLE Central.
 3. Transfer data from Laptop to Unity game engine through Socket connection.
