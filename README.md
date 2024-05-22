@@ -17,10 +17,10 @@ Here's a capture:
 ![image](https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/blob/master/Design.png)
 
 #IMU algorithm
-The solution from aster94 to convert IMU data to Euler angles using the Mahony algorithm, refer to https://github.com/aster94/SensorFusion
+The solution from aster94 to convert IMU data to Euler angles using the Mahony algorithm, refer to [GitHub Pages](https://github.com/aster94/SensorFusion).
 
 ##Voice recognition
-voice recognition used the RealtimeSTT from KoljaB, refer to https://github.com/KoljaB/RealtimeSTT
+voice recognition used the RealtimeSTT from KoljaB, refer to [GitHub Pages](https://github.com/KoljaB/RealtimeSTT).
 
 ##Unity assets
 The assets used in unity are free and those can be found in the unity asset store.
