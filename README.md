@@ -2,6 +2,7 @@
 This is a project exploring the usage of Arduino board RP2040 Connect in entertainment as a motion controller for gaming purpose (3d spaceship obstacle dodging) by combining voice recognition.
 
 ##Demo
+Here's a capture:
 ![image](https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/blob/master/Demo.png)
 
 ##Project objectives
@@ -16,10 +17,10 @@ This is a project exploring the usage of Arduino board RP2040 Connect in enterta
 ![image](https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/blob/master/Design.png)
 
 #IMU algorithm
-The solution from aster94 to convert IMU data to euler angles using Mahony algorithm, refer to https://github.com/aster94/SensorFusion
+The solution from aster94 to convert IMU data to Euler angles using the Mahony algorithm, refer to https://github.com/aster94/SensorFusion
 
 ##Voice recognition
-voice recogintion used the RealtimeSTT from KoljaB, refer to https://github.com/KoljaB/RealtimeSTT
+voice recognition used the RealtimeSTT from KoljaB, refer to https://github.com/KoljaB/RealtimeSTT
 
-##Unity assests
-The assests used in unity are totally free and those can be found in the unity assest store.
+##Unity assets
+The assets used in unity are free and those can be found in the unity asset store.
