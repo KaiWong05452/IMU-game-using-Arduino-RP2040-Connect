@@ -5,7 +5,11 @@ This is a project exploring the usage of Arduino board RP2040 Connect in enterta
 ![image](https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/blob/master/Demo.png)
 
 
-https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/assets/127105744/67b330a8-ea9f-4b05-bbb8-a5642f4090d5
+
+
+https://github.com/KaiWong05452/IMU-game-using-Arduino-RP2040-Connect/assets/127105744/480a82a8-e507-4853-9734-17a04c833f82
+
+
 
 
 ## Project objectives
